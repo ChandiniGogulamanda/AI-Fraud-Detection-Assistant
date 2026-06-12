@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+numpy
+pandas
+joblib
+xgboost
+python-docx
+PyPDF2
+groq
+python-dotenv
